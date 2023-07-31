@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "836614680433",
+    "project_id": "presentz-cb4b2",
+    "storage_bucket": "presentz-cb4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836614680433:android:46cb859391090f3bb550d0",
+        "android_client_info": {
+          "package_name": "com.example.presentz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836614680433-lofqrkp9f1fej0jvdtk4udikgl05nuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa43hcRkW79Tgn_ufUSBH22EApM9NEjHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836614680433-lofqrkp9f1fej0jvdtk4udikgl05nuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836614680433:android:947ea6263746971cb550d0",
+        "android_client_info": {
+          "package_name": "com.example.presentzadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836614680433-lofqrkp9f1fej0jvdtk4udikgl05nuqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa43hcRkW79Tgn_ufUSBH22EApM9NEjHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836614680433-lofqrkp9f1fej0jvdtk4udikgl05nuqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
